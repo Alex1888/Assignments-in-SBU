@@ -1,2 +1,2 @@
-# CSE591
+# Assignments
 this is for my assignments
